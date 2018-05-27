@@ -1,0 +1,4 @@
+{
+    "git.autorefresh": true,
+    "svn.ignoreMissingSvnWarning": true
+}
